@@ -1,0 +1,13 @@
+
+.home {  
+  background-image: url("../images/bac.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%; 
+}
+
+.view-h{
+  height: 87.3vh !important;
+}
+
+
